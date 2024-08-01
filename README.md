@@ -1,4 +1,12 @@
--project1
+   ```sh
+   git clone (This repo)
+
+
+-then   
+   ```sh
+   cd (your directory name)
+- project1/
+
 project1/
 ├── config/
 │   └── db.js
@@ -9,4 +17,6 @@ project1/
 ├── .env
 ├── app.js
 └── package.json
+
+
 
